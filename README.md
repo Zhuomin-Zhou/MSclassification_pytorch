@@ -1,6 +1,8 @@
 # MSclassification_pytorch
 
-The task is used pytorch for the classification of (Microseismic)MS events.
+This porject is based on pytorch 
+
+The aim is to classify the (Microseismic)MS events.
 
 There are three classification models (ResNet18, VGG16, AlexNet), which are all included in backbone_Min.py
 
